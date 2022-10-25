@@ -1,4 +1,5 @@
 # Discount_marketing_strategy
+Project for course module
 According to the World Health Organization (WHO), Depression is the leading cause of disability worldwide affecting more than 264 million people of all age groups around the world
 It is a serious health condition causing persistent thoughts of traumatic memories, insomnia, and severe anxiety. Thus, early diagnosis and treatment is of paramount importance. There are therapy methods and medications available for its effective treatment. With the growth of social media, people tend to post most of their activities online in the form of text and images which reflects their mental health condition to a great extent. Finding these indicators will help in early diagnosis and could help save a life in future.
 
